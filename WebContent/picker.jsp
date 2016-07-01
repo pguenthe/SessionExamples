@@ -46,5 +46,16 @@ This page lets you choose color and font for the other pages of the website.
 </form>
 <br>
 <a href="page3.jsp">See that it works on another page</a>
+
+<br />
+<br />
+<div style="text-align:center">
+<a href="welcome.jsp">Welcome Page</a> |
+<a href="page2.jsp">Answer Page</a> |
+<a href="picker.jsp">Picker Page</a> |
+<a href="page3.jsp">Another Example</a> |
+<a href="clearall.jsp">Clear Session</a>
+</div>
+
 </body>
 </html>

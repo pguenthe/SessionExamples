@@ -29,5 +29,15 @@ See that your session settings are available here too!
 <br>
 <a href="picker.jsp">Back to the picker</a>
 <br />
+<br />
+<br />
+<div style="text-align:center">
+<a href="welcome.jsp">Welcome Page</a> |
+<a href="page2.jsp">Answer Page</a> |
+<a href="picker.jsp">Picker Page</a> |
+<a href="page3.jsp">Another Example</a> |
+<a href="clearall.jsp">Clear Session</a>
+</div>
+
 </body>
 </html>

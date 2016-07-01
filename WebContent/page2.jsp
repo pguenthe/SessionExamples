@@ -7,6 +7,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Page 2</title>
+
 </head>
 <body>
 <%
@@ -32,5 +33,16 @@
 		out.println ("Also check out the <a href=\"picker.jsp\">Picker Page</a> for more session fun!");
 	}
 %>
+
+<br />
+<br />
+<div style="text-align:center">
+<a href="welcome.jsp">Welcome Page</a> |
+<a href="page2.jsp">Answer Page</a> |
+<a href="picker.jsp">Picker Page</a> |
+<a href="page3.jsp">Another Example</a> |
+<a href="clearall.jsp">Clear Session</a>
+</div>
+
 </body>
 </html>
